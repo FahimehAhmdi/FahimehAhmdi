@@ -63,7 +63,23 @@ currently_exploring:
   - "Graph Neural Networks (GNNs) & Representation Learning"
   - "Deep Learning for Neuroimaging & Scientific ML"
 
-
+<h3 align="center">Tech Stack & Tools 🧰</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" style="margin: 0 5px;" />
+  <img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" width="50" height="50" style="margin: 0 5px;" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50" style="margin: 0 5px;" />
+  <img src="https://skillicons.dev/icons?i=r" alt="R" width="50" height="50" style="margin: 0 5px;" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50" style="margin: 0 5px;" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50" style="margin: 0 5px;" />
+  <img src="https://skillicons.dev/icons?i=scikit" alt="Scikit-learn" width="50" height="50" style="margin: 0 5px;" />
+  <img src="https://skillicons.dev/icons?i=numpy" alt="NumPy" width="50" height="50" style="margin: 0 5px;" />
+  <img src="https://skillicons.dev/icons?i=pandas" alt="Pandas" width="50" height="50" style="margin: 0 5px;" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Human%20Neocortical%20Neurosolver%20(HNN)-005A9C?style=for-the-badge&logo=brain&logoColor=white" alt="HNN" height="40" style="margin: 0 5px;" />
+  <img src="https://img.shields.io/badge/Neuroscience%20Gateway%20(NSG)-4CAF50?style=for-the-badge&logo=scipy&logoColor=white" alt="NSG" height="40" style="margin: 0 5px;" />
+  <img src="https://img.shields.io/badge/GIPHY%20API-EF6C00?style=for-the-badge&logo=giphy&logoColor=white" alt="Giphy" height="40" style="margin: 0 5px;" />
+</p>
 
 
 ---
