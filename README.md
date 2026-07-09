@@ -32,7 +32,6 @@
 
 ```yaml
 
-researcher:
   name: "Fahimeh Ahmadi"
   current_position: "Research Assistant | Complex Systems & Computational Neuroscience"
 
