@@ -63,6 +63,8 @@ currently_exploring:
   - "Graph Neural Networks (GNNs) & Representation Learning"
   - "Deep Learning for Neuroimaging & Scientific ML"
 
+---
+
 <h3 align="center">Tech Stack & Tools 🧰</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" style="margin: 0 5px;" />
