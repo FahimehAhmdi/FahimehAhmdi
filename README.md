@@ -14,6 +14,14 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="45" height="45" style="margin: 0 5px;"/>
 </a>
 
+<a href="https://scholar.google.com/citations?user=utR62x8AAAAJ&hl=en" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/googlescholar.svg" alt="Google Scholar" width="45" height="45" style="margin: 0 8px;"/>
+  </a>
+
+  <a href="mailto:afahimehahmdi@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" alt="Email" width="45" height="45" style="margin: 0 8px;"/>
+  </a>
+
 </p>
 
 ---
