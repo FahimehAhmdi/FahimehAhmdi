@@ -1,10 +1,9 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=00c6ff,0072ff&height=220&section=header&text=Hello!&fontColor=ffffff&fontSize=80&fontAlignY=55&descAlignY=60&animation=fadeIn&descAlign=60)
 
-<h2 align="center">Let's Connect and have a Chat! 💬</h2>
+<h2 align="center">Let's Connect 💬</h2>
 <p align="center">
 
 
-< -->
 
 
   <!-- -->
