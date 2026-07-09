@@ -1,4 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=00c6ff,0072ff&height=220&section=header&text=Hello!&fontColor=ffffff&fontSize=80&fontAlignY=55&descAlignY=60&animation=fadeIn&descAlign=60)
+ <p align="center">
+  <img src="https://media.giphy.com/media/l41JU9pUyosHzWyuQ/giphy.gif" alt="Rick and Morty" width="400"/>
+</p>
+
 
 <h2 align="center">Let's Connect 💬</h2>
 <p align="center">
@@ -7,16 +10,14 @@
 
 
   <!-- -->
-<a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+<a href="https://www.linkedin.com/in/fahimeh-ahmadi-4b4731214/" target="_blank">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="45" height="45" style="margin: 0 5px;"/>
 </a>
 
 </p>
 
 ---
- <p align="center">
-  <img src="https://media.giphy.com/media/l41JU9pUyosHzWyuQ/giphy.gif" alt="Rick and Morty" width="400"/>
-</p>
+
 
 ## Hi there 👋
 
