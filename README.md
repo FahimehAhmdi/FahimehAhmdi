@@ -65,29 +65,5 @@ currently_exploring:
 
 
 
----
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Human%20Neocortical%20Neurosolver%20(HNN)-005A9C?style=for-the-badge&logo=brain&logoColor=white" alt="HNN" height="35" style="margin-right: 5px;" />
-  <img src="https://img.shields.io/badge/Neuroscience%20Gateway%20(NSG)-4CAF50?style=for-the-badge&logo=scipy&logoColor=white" alt="NSG" height="35" style="margin-right: 5px;" />
-  <img src="https://img.shields.io/badge/GIPHY%20API-EF6C00?style=for-the-badge&logo=giphy&logoColor=white" alt="Giphy" height="35" />
-</p>
-
-
-
-
-
-```
 
