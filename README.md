@@ -29,67 +29,40 @@
 
 ## Hi there 👋
 
-YAML
 
-name: Fahimeh Ahmadi
+```yaml
 
-
-current_position:
-  "Research Assistant | Complex Systems & Computational Neuroscience"
+researcher:
+  name: "Fahimeh Ahmadi"
+  current_position: "Research Assistant | Complex Systems & Computational Neuroscience"
 
 education:
-  [
-    "M.Sc. in Physics of Complex Systems - Shahid Beheshti University",
-    "B.Sc. in Physics - Kharazmi University"
-  ]
+  - degree: "M.Sc. in Physics of Complex Systems"
+    institution: "Shahid Beheshti University"
+  - degree: "B.Sc. in Physics"
+    institution: "Kharazmi University"
 
 research_interests:
-  [
-    "Complex Systems",
-    "Computational Neuroscience",
-    "Network Science",
-    "Machine Learning",
-    "Biological Physics",
-    "Graph Machine Learning"
-  ]
+  - "Complex Systems & Network Science"
+  - "Computational Neuroscience"
+  - "Machine Learning & Graph ML"
+  - "Statistical Mechanics of Networks"
 
-current_research:
-  [
-    "Resting-state fMRI/EEG Analysis",
-    "Structural Balance Theory",
-    "Higher-order Network Analysis",
-    "Machine Learning for Neuroimaging"
-  ]
+current_research_focus:
+  - "Resting-state fMRI/EEG Connectivity Analysis"
+  - "Structural Balance Theory & Higher-order Networks"
+  - "Spin Glass Configurations in Clinical Brain Networks"
+  - "Inverse Problems in Neuroimaging (Alzheimer's Disease)"
 
-technical_skills:
-  [
-    "Python",
-    "PyTorch",
-    "TensorFlow",
-    "Keras",
-    "Scikit-learn",
-    "NetworkX",
-    "NumPy",
-    "Pandas",
-    "MATLAB",
-    "C++"
-  ]
+technical_stack:
+  languages: ["Python", "MATLAB", "C++"]
+  frameworks: ["PyTorch", "TensorFlow", "Keras", "Scikit-learn"]
+  libraries: ["NetworkX", "NumPy", "Pandas"]
 
-currently_learning:
-  [
-    "Graph Neural Networks",
-    "Representation Learning",
-    "Deep Learning for Neuroimaging",
-    "Scientific Machine Learning"
-  ]
+currently_exploring:
+  - "Graph Neural Networks (GNNs) & Representation Learning"
+  - "Deep Learning for Neuroimaging & Scientific ML"
 
-
-currently_working_on:
-  [
-    "Machine Learning for Spin Glass Detection in Brain Networks",
-    "Inverse problem in the brain network",
-    "Alzheimer's Disorder Research"
-  ]
 
 
 
