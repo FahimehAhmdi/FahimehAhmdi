@@ -66,3 +66,4 @@ currently_exploring:
 
 
 
+![Snake animation](https://github.com/FahimehAhmdi/FahimehAhmdi/blob/output/github-contribution-grid-snake.svg)
