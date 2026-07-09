@@ -61,9 +61,3 @@ technical_stack:
 currently_exploring:
   - "Graph Neural Networks (GNNs) & Representation Learning"
   - "Deep Learning for Neuroimaging & Scientific ML"
-
-
-
-
-
-![Snake animation](https://github.com/FahimehAhmdi/FahimehAhmdi/blob/output/github-contribution-grid-snake.svg)
