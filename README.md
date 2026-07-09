@@ -3,7 +3,7 @@
 </p>
 
 
-<h2 align="center">Let's Connect 💬</h2>
+<h2 align="center"> I'm just curious!</h2>
 <p align="center">
 
 
