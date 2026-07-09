@@ -7,9 +7,9 @@
 
 
   <!-- -->
-  <a href="https://www.linkedin.com/in/fahimeh-ahmadi-4b4731214/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="45" height="45" style="margin: 0 5px;"/>
-  </a>
+<a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="45" height="45" style="margin: 0 5px;"/>
+</a>
 
 </p>
 
