@@ -61,3 +61,5 @@ technical_stack:
 currently_exploring:
   - "Graph Neural Networks (GNNs) & Representation Learning"
   - "Deep Learning for Neuroimaging & Scientific ML"
+
+*(Feel free to check out my repository on the Oracle HR Database to see how I structure complex relational data and server-side database logic!)*
