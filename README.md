@@ -61,5 +61,6 @@ technical_stack:
 currently_exploring:
   - "Graph Neural Networks (GNNs) & Representation Learning"
   - "Deep Learning for Neuroimaging & Scientific ML"
+  - "Advanced SQL query tuning and Execution Plans in Oracle Database"
 
-*(Feel free to check out my repository on the Oracle HR Database to see how I structure complex relational data and server-side database logic!)*
+"💡 Check out my Oracle HR Database project on GitHub, where I practically applied relational DB design principles, built server-side PL/SQL components (procedures/triggers), and explored indexing and materialized views to understand data retrieval optimization."  
